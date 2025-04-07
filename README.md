@@ -27,6 +27,13 @@
 
 ---
 
+
+<!-- GIF or Banner -->
+<p align="center">
+  <img alt="Magician of Development" width="250px" src="https://user-images.githubusercontent.com/90456255/211994163-387316d1-1544-48ea-82d6-d0c0ac0a74ae.gif">
+   <br>
+</p>
+
 <!-- Languages and Tools with Icons -->
 ## 🧰 Tech Stack:
 
