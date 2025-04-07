@@ -62,7 +62,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white)  ![Swagger](https://img.shields.io/badge/Swagger-Green?logo=swagger&logoColor=white)  ![Prettier](https://img.shields.io/badge/Prettier-FF5349?logo=prettier&logoColor=ffffff)
 
 #### 🧠 Design / PM
-![Figma](https://img.shields.io/badge/Figma-F0F0F0?logo=figma&logoColor=purple)  ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)  ![Slack](https://img.shields.io/badge/Slack-purple?logo=slack&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F0F0F0?logo=figma&logoColor=purple)  ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)  ![Slack](https://img.shields.io/badge/Slack-purple?logo=slack&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white)
 
 ---
 
