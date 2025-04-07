@@ -42,7 +42,7 @@
 ---
 
 #### 🧱 Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)  ![Hapi.js](https://img.shields.io/badge/-Hapi.js-FF6C37?style=flat-square&logo=hapi&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)  ![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=laravel&logoColor=white)  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  ![Express](https://img.shields.io/badge/-Express-white?style=flat-square&logo=express&logoColor=black)  ![Hapi.js](https://img.shields.io/badge/-Hapi.js-FF6C37?style=flat-square&logo=hapi&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)  ![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=laravel&logoColor=white)  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 ---
 
