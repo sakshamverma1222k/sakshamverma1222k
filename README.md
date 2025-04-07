@@ -37,7 +37,7 @@
 ---
 
 #### 🚀 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)  ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react)  ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)  ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)  ![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white)  ![AntDesign](https://img.shields.io/badge/-AntDesign-0170FE?style=flat-square&logo=ant-design)  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)  ![ShadCN](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)  ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react)  ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)  ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)  ![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white)  ![AntDesign](https://img.shields.io/badge/-AntDesign-0170FE?style=flat-square&logo=ant-design)  ![CSS](https://img.shields.io/badge/CSS-FF5349?logo=css3&logoColor=ffffff)  ![ShadCN](https://img.shields.io/badge/ShadCN/UI-000000?logo=shadcn/ui&logoColor=white)
 
 ---
 
@@ -55,14 +55,14 @@
 ![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=flat-square&logo=amazon-aws)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)  ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)  ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?&style=plastic&logo=kubernetes&logoColor=white)
 
 #### 🛠️ DevOps & Versioning
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)  ![Appache](https://img.shields.io/badge/Apache%20-red?style=flat-square&logo=Apache)  ![Github](https://img.shields.io/badge/Github%20-black?style=flat-square&logo=Github)  ![Github Actions](https://img.shields.io/badge/Github-Actions%20-black?style=flat-square&logo=GithubActions)  ![Git](https://img.shields.io/badge/Git%20-gray?style=flat-square&logo=Git)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)  ![Appache](https://img.shields.io/badge/Apache%20-red?style=flat-square&logo=Apache)  ![Github](https://img.shields.io/badge/Github%20-black?style=flat-square&logo=Github)  ![Github Actions](https://img.shields.io/badge/Github-Actions%20-black?style=flat-square&logo=GithubActions)  ![Git](https://img.shields.io/badge/Git%20-gray?style=flat-square&logo=Git)
 
 #### 🧪 Testing, Docs & Styling-Code Tools
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)  ![Prettier](https://img.shields.io/badge/Prettier-FF5349?logo=prettier&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white)  ![Swagger](https://img.shields.io/badge/Swagger-Green?logo=swagger&logoColor=white)  ![Prettier](https://img.shields.io/badge/Prettier-FF5349?logo=prettier&logoColor=ffffff)
 
 #### 🧠 Design / PM
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)  ![Slack](https://img.shields.io/badge/Slack-purple?logo=slack&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F0F0F0?logo=figma&logoColor=purple)  ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)  ![Slack](https://img.shields.io/badge/Slack-purple?logo=slack&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
