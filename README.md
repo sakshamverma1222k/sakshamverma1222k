@@ -14,7 +14,8 @@
 
 <!-- GIF or Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" height="250" />
+  <img alt="Its Me Developing" width="250px" src="https://user-images.githubusercontent.com/68494604/120436157-39627380-c39c-11eb-89cf-58089fb1032d.gif">
+   <br>
 </p>
 
 <!-- About Section -->
