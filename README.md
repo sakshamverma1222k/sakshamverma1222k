@@ -2,6 +2,16 @@
 <h1 align="center">Hey Devs 👋, I'm Saksham Verma</h1>
 <h3 align="center">🚀 Full Stack Developer | Building Scalable Apps | Passionate about Dev, Design & Systems</h3>
 
+
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
+![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
+![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
+![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
+![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
+![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
+
 <!-- GIF or Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" height="250" />
@@ -12,7 +22,7 @@
 - 🧠 I enjoy solving real-world problems with clean code and smart systems.
 - 🌱 Currently diving deeper into system design & distributed systems.
 - 🎯 Actively working on subscription-based apps, affiliate systems, and custom analytics tools.
-- 🤝 Open for collaboration on **SaaS, FinTech, and Automation Projects**.
+- 🤝 Open for collaboration on **Frontend, Backend and Automation of Projects**.
 
 ---
 
