@@ -20,14 +20,12 @@
 ### 🧰 Tech Stack:
 
 ### 💬 Languages
-<p>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)  
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)  
-</p>
 
 
 #### 🚀 Frontend
