@@ -57,7 +57,7 @@
 #### 🛠️ DevOps & Versioning
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)  ![Appache](https://img.shields.io/badge/Apache%20-red?style=flat-square&logo=Apache)  ![Github](https://img.shields.io/badge/Github%20-black?style=flat-square&logo=Github)  ![Github Actions](https://img.shields.io/badge/Github-Actions%20-black?style=flat-square&logo=GithubActions)  ![Git](https://img.shields.io/badge/Git%20-gray?style=flat-square&logo=Git)
 
-#### 🧪 Testing, Docs & Styling-Code Tools
+#### 🧪 Testing, Docs & Code-Styling Tools
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white)  ![Swagger](https://img.shields.io/badge/Swagger-Green?logo=swagger&logoColor=white)  ![Prettier](https://img.shields.io/badge/Prettier-FF5349?logo=prettier&logoColor=ffffff)
 
